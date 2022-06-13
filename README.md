@@ -2,8 +2,7 @@
 Tools and scripts I used for Amamane's English MTL
 
 Currently, there are 2 tools included in this repository:
-extract text fixed.py
-insert text.py
+extract text fixed.py and insert text.py
 
 To extract Japanese text from the game's lua files, you need to run the extract text fixed.py. It will look for lua scripts in the same directory where the .py files are. And it will place the extracted texts into a folder called "Extracted".
 
